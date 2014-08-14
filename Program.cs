@@ -13,7 +13,6 @@ namespace ClearMeasureInterview
 
         public static void Main(string[] args)
         {
-            var endPoint = 100;
             var customRulesList =  new List<ForClient.CustomRule>();
             var resultsToPrint = new List<String>();
 
