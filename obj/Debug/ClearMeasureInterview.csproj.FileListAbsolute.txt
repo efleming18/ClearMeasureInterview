@@ -1,0 +1,6 @@
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\bin\Debug\ClearMeasureInterview.exe.config
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\obj\Debug\ClearMeasureInterview.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\bin\Debug\ClearMeasureInterview.exe
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\bin\Debug\ClearMeasureInterview.pdb
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\obj\Debug\ClearMeasureInterview.exe
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\obj\Debug\ClearMeasureInterview.pdb

@@ -1,0 +1,8 @@
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\obj\Release\ClearMeasureInterview.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\bin\Release\ClearMeasureInterview.exe.config
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\bin\Release\ClearMeasureInterview.exe
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\bin\Release\ClearMeasureInterview.pdb
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\bin\Release\ForClient.dll
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\bin\Release\ForClient.pdb
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\obj\Release\ClearMeasureInterview.exe
+C:\Users\Eric\Documents\GitHub\TestRepo\ClearMeasureInterview\ClearMeasureInterview\obj\Release\ClearMeasureInterview.pdb
